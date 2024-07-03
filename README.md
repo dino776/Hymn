@@ -1,4 +1,13 @@
-
+<section>
+   <h2>How to run locally on your PC?</h2>
+   <ol>
+     <li>Clone this repo</li>
+     <li> Install Nodejs </li>
+     <li> Run "npm start"</li>
+     <li> Navigate to  <a>http://localhost:3000/ </a> </li>
+   </ol>
+  
+</section>
 
 
 
