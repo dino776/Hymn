@@ -23,3 +23,16 @@ Routing: If you're using Express to handle routing, the links within your HTML m
 </li>
 
 </ul>
+
+<ul>
+  If push is throwing errors you have to "fetch first." use commands:
+
+<li>git fetch origin </li>
+Then follow these steps to merge:
+
+<li>git pull origin master </li>
+<li>git add .</li>
+<li>git commit -m 'your commit message'</li>
+<li>git push origin master</li>
+
+</ul>
