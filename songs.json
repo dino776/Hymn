@@ -6,7 +6,18 @@
 			"img": "img/hurricane.webp",
 			"singer": "Eden Golan",
 			"genre": "Pop"
-   }]
+   },
+	   {
+                    "id": "2",
+			"name": "The code",
+			"path": "music/thecode.mp3",
+			"img": "img/thecode.webp",
+			"singer": "Nemo",
+			"genre": "Pop"
+		   
+	   }
+   
+   ]
 
   
 }
